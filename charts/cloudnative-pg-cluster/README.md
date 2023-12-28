@@ -1,8 +1,8 @@
-# Helm Charts for app-silvestrini
+# Helm Charts for cloudnative-pg-cluster
 
 ## Description
 
-This is a Helm chart for Kubernetes that allows you to deploy the "app-silvestrini" application to your Kubernetes cluster.
+This is a Helm chart for Kubernetes that allows you to deploy the "cloudnative-pg-cluster" application to your Kubernetes cluster.
 
 ## Versioning
 
@@ -21,7 +21,7 @@ To install this chart on your Kubernetes cluster, you can use the following comm
 ```bash
 
 helm repo add my-repo https://marcossilvestrini.github.io/charts/
-helm install my-release my-repo/app-silvestrini
+helm install my-release my-repo/cloudnative-pg-cluster
 ```
 
 ## How to Uninstall the Chart
