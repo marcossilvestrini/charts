@@ -10,7 +10,7 @@ Replace `<POSTGRES_HOST>`, `<POSTGRES_USER>`, and `<POSTGRES_DB>` with the appro
 
 2. To check the status of the PostgreSQL cluster, you can run:
 
-kubectl get postgresqlcluster -n <NAMESPACE>
+kubectl get cluster -n <NAMESPACE>
 
 Replace `<NAMESPACE>` with the namespace where you installed the chart.
 
