@@ -11,7 +11,25 @@ entries:
     urls:
     - https://github.com/marcossilvestrini/charts/releases/download/app-silvestrini-1.1.2/app-silvestrini-1.1.2.tgz
     version: 1.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-28T01:47:29.855549002Z"
+    description: A Helm chart for Kubernetes - By Marcos Silvestrini
+    digest: a107be985278cfcff0d2497d9fc6cd6f580b79b3bdcba5935c69ab071c0fe526
+    name: app-silvestrini
+    type: application
+    urls:
+    - https://github.com/marcossilvestrini/charts/releases/download/app-silvestrini-1.0.0/app-silvestrini-1.0.0.tgz
+    version: 1.0.0
   cloudnative-pg-cluster:
+  - apiVersion: v2
+    created: "2023-12-28T01:47:30.001568177Z"
+    description: A Helm Chart for PostgreSQL
+    digest: 8cfa90a83b48a26fc64dab33d6fdfbad35a29cae2f6795fd006fcbbe1b418cbf
+    name: cloudnative-pg-cluster
+    urls:
+    - https://github.com/marcossilvestrini/charts/releases/download/cloudnative-pg-cluster-1.0.0/cloudnative-pg-cluster-1.0.0.tgz
+    version: 1.0.0
   - apiVersion: v2
     created: "2023-12-28T01:44:21.588700906Z"
     description: A Helm Chart for PostgreSQL
@@ -20,4 +38,4 @@ entries:
     urls:
     - https://github.com/marcossilvestrini/charts/releases/download/cloudnative-pg-cluster-0.1.0/cloudnative-pg-cluster-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-28T01:44:21.588707058Z"
+generated: "2023-12-28T01:47:30.001579538Z"
