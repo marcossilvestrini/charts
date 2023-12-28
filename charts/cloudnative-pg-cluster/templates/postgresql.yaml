@@ -59,3 +59,4 @@ spec:
   nodeMaintenanceWindow:
     inProgress: {{ .Values.nodeMaintenanceWindow.inProgress }}
     reusePVC: {{ .Values.nodeMaintenanceWindow.reusePVC }}
+
