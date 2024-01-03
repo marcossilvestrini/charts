@@ -4,6 +4,10 @@
 
 <https://marcossilvestrini.github.io/charts>
 
+## Source repository
+
+<https://github.com/marcossilvestrini/charts>
+
 ## Charts Released
 
 app-silvestrini\
